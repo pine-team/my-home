@@ -8,7 +8,7 @@
 #header {
     width:auto;
     height:130px;
-    background-color:red;
+    background-color:black;
     background-image:url('page-header-bg.jpg');
     background-size:cover;
 }
@@ -41,13 +41,11 @@
     width:auto;
     height:25px;
     background:rgb(204,170,102);
-    box-shadow:black 0px 10px 10px;
 }
-
 #footer {
     width:auto;
-    height:190px;
+    height:130px;
     background-color:black;
-    background:url(http://localhost:2718/page-header-bg.jpg);
+    background-image:url('page-header-bg.jpg');
     background-size:cover;
 }
