@@ -114,3 +114,21 @@ a:hover{
     background-size:cover;
     box-shadow: inset black 0px 10px 10px;
 }
+#be-in-touch {
+    font-family:Acens;
+    color:rgb(204,170,102);
+    font-size:30px;
+    padding-top:30px;
+    padding-left:40px;
+    font-weight:bold;
+}
+
+#call {
+    padding-left:300px;
+    padding-top:0px;
+}
+
+#email {
+    margin-top:0px;
+    padding-left:100px;
+}

@@ -63,6 +63,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="11.png" />
+    <Content Include="22.png" />
     <Content Include="packages.config" />
     <Content Include="Acens.ttf" />
     <None Include="Web.Debug.config">
