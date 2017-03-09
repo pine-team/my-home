@@ -8,6 +8,8 @@
     border:0px;
     padding:0px;
     margin:0px;
+    font-family:Acens;
+    user-select:none;
 }
 
 a{
@@ -62,7 +64,6 @@ a:hover{
     border:5px solid white;
     position:absolute;
     color:white;
-    font-family:Acens;
     font-size:26px;
     text-align:center;
     transition-duration:.2s;
@@ -85,12 +86,10 @@ a:hover{
 
 #gallery {
     width:auto;
-    height:530px;
     background-color:rgb(20,20,20);
 }
 
 #gallery h1 {
-    font-family:'Calibri';
     font-size:40px;
     font-weight:100;
     text-align:center;
@@ -115,7 +114,6 @@ a:hover{
     box-shadow: inset black 0px 10px 10px;
 }
 #be-in-touch {
-    font-family:Acens;
     color:rgb(204,170,102);
     font-size:30px;
     padding-top:30px;
@@ -124,11 +122,48 @@ a:hover{
 }
 
 #call {
-    padding-left:300px;
-    padding-top:0px;
+    width:auto;
+    height:auto;
+    color:rgb(204,170,102);
+    font-size:20px;
+    font-weight:bold;
+    position:absolute;
+    padding-top:8px;
+    left:100px;
+}
+
+#call-img {
+    position:absolute;
+    left:40px;
 }
 
 #email {
-    margin-top:0px;
-    padding-left:100px;
+    width:auto;
+    height:auto;
+    color:rgb(204,170,102);
+    font-size:16px;
+    font-weight:bold;
+    position:absolute;
+    padding-top:60px;
+    left:100px;
+}
+
+#email-img {
+    position:absolute;
+    left:40px;
+    padding-top:50px;
+}
+#pine-team {
+    color:rgb(204,170,102);
+    font-size:16px;
+    position:absolute;
+    right:50px;
+    padding-top:90px;
+    font-family:Acens;
+}
+
+#pine {
+    position:absolute;
+    right:10px;
+    padding-top:85px;
 }
